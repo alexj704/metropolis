@@ -6,13 +6,11 @@ Suite à une vidéo de BenjaminCode, j'ai voulu reproduire le challenge de coder
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
-
 ### Installation
 
 Depuis la racine du projet, tapez "npm install" pour installer les dépendances.
 
-## Démarrage
+### Démarrage
 
 Pour lancer le projet, depuis la racine, tapez la commande "npm run dev"
 
